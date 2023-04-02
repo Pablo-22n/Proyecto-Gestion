@@ -120,7 +120,7 @@ public class ClienteDao {
         return listado;//Devolvemos el listado con los datos obtenidos en la consulta
   }
     
-    
+    //ESTAS FUNCIONES SON INVOCADAS EN EL CODIGO DEL FORMULARIO
     
 }
 
