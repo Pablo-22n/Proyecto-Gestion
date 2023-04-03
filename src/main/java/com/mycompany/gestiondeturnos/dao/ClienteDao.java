@@ -48,6 +48,7 @@ public class ClienteDao {
         return conexion;
     }
     
+     //LAS SIGUIENTES FUNCIONES SON INVOCADAS EN EL CODIGO DEL FORMULARIO
     
     //FUNCION PARA AGREGAR CLIENTES A LA BASE DE DATOS
     public void agregar(Cliente cliente) {
